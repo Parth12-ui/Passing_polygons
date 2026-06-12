@@ -1,0 +1,8 @@
+pandas
+numpy
+matplotlib
+kloppy
+mplsoccer
+polars
+humanize
+# SkillCorner Viz (optional depends on colab usage)
